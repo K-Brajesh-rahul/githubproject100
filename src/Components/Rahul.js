@@ -1,7 +1,7 @@
 function Rahul(){
     return(
         <div>
-            <h1>Rahul</h1>
+            <h1>Rahul is a good boy</h1>
         </div>
     )
 }
