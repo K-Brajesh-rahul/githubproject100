@@ -3,7 +3,7 @@ function Rahul(){
         <div>
             <h1>This is Rahul</h1>
             <h1>kanre brajesh rahul</h1>
-            <h1>Venkatesh</h1>
+            <h1>Ravipati Surya...</h1>
             <h1>0+44</h1>
         </div>
     )
