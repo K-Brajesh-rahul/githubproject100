@@ -1,10 +1,8 @@
 function Rahul(){
     return(
-        <>
-            <h1>
-                Loream12
-            </h1>
-        </>
+        <div>
+            <h1>Rahul</h1>
+        </div>
     )
 }
 export default Rahul;
